@@ -12,3 +12,8 @@ h1 {
   margin-top: 200px;
   font-size: 40px;
 }
+
+div {
+  text-align: center;
+  color: #fff;
+}
